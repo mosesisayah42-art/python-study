@@ -83,13 +83,5 @@ else:
     print("Access Denied")
 
 
-#Given a list valid_ids = [101, 102, 103] and a variable user_id = 105, write a conditional statement that:
-#Prints "Access Granted" if user_id is in valid_ids.
-#Prints "Access Denied" if user_id is not in valid_ids.
-valid_ids = [101, 102, 103]
-if 'user_id' ==valid_ids:
-    print("Access Granted")
-else:
-    print("Access Denied")
 
 
