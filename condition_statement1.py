@@ -30,7 +30,7 @@ marks=10
 
 if marks>80:
     print('A')
-elif marks>70:
+elif marks>70: 
     print('B')
 elif marks>60:
     print('C')
